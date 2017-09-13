@@ -1,0 +1,25 @@
+#title {
+    background:lightpink;
+    width:100%;
+    height:10%;
+    float:top;
+
+}
+#hello {
+    background:rebeccapurple;
+    width:50%;
+    height:50%;
+    float: left;
+
+}
+#img {
+    height:200px;
+}
+
+#goodbye {
+    background:darkgrey;
+    width:50%;
+    height:50%;
+    float:right;
+
+}
